@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"To be the Man, you have to beat the Man! Whoooooo!!" 
 Use the left arrow to go back!
